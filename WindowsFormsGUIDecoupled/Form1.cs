@@ -33,6 +33,8 @@ namespace WindowsFormsGUIDecoupled
             // update our gui to match the model(buissness logic)
             Game gg = g.someoneHasClickedMyButton();
             if(gg.getClickedButton()) textBox1.Text = "Thankyou";
+            // hello
+            //blah blah 
 
         }
     }
